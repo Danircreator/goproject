@@ -2,7 +2,7 @@
 
 Задача 1-1
 Описание: 
-
+https://github.com/Danircreator/goproject/blob/master/1-2.go
 Задача 1-2
 Описание: 
 
